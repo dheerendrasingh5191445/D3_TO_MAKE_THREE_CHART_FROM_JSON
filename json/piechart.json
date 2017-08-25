@@ -1,0 +1,59 @@
+ [
+    {
+      "Heading": "ATTEMPT: ARMED-KNIFE/CUT INSTR",
+      "value": 1892
+    },
+    {
+      "Heading": "AGGRAVATED VEHICULAR HIJACKING",
+      "value": 8104
+    },
+    {
+      "Heading": "STRONGARM - NO WEAPON",
+      "value": 79718
+    },
+    {
+      "Heading": "ARMED: HANDGUN",
+      "value": 79371
+    },
+    {
+      "Heading": "ARMED: OTHER DANGEROUS WEAPON",
+      "value": 11425
+    },
+    {
+      "Heading": "ARMED:KNIFE/CUTTING INSTRUMENT",
+      "value": 10508
+    },
+    {
+      "Heading": "AGGRAVATED",
+      "value": 11072
+    },
+    {
+      "Heading": "VEHICULAR HIJACKING",
+      "value": 4210
+    },
+    {
+      "Heading": "ATTEMPT: STRONGARM-NO WEAPON",
+      "value": 8919
+    },
+    {
+      "Heading": "ATTEMPT: ARMED-OTHER DANG WEAP",
+      "value": 1829
+    },
+    {
+      "Heading": "ATTEMPT: ARMED-OTHER FIREARM",
+      "value": 252
+    },
+    {
+      "Heading": "ARMED: OTHER FIREARM",
+      "value": 1189
+    },
+    {
+      "Heading": "ATTEMPT: AGGRAVATED",
+      "value": 736
+    },
+    {
+      "Heading": "ATTEMPT: ARMED-HANDGUN",
+      "value": 7235
+    }
+  ]
+
